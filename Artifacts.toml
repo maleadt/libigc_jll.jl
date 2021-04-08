@@ -1,0 +1,10 @@
+[[libigc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de3e22145d198877c7b0aa20aff043afd6cc0e9b"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "5050ae57d99268d5f79727b0b233443e70cd67f3288fd43274f33202b765aee4"
+    url = "https://github.com/maleadt/libigc_jll.jl/releases/download/libigc-v1.0.6712+1/libigc.v1.0.6712.x86_64-linux-gnu-cxx11.tar.gz"
