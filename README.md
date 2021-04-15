@@ -8,10 +8,10 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `libigc_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/intel/intel-graphics-compiler.git (revision: `5ef516712cb51d6fc92e88b28d48bf7548d2f0f6`)
+* git repository: https://github.com/intel/intel-graphics-compiler.git (revision: `cfc0c744c78bc652e43bea3be905188369d24ead`)
 * git repository: https://github.com/intel/opencl-clang.git (revision: `c8cd72e32b6abc18ce6da71c357ea45ba78b52f0`)
 * git repository: https://github.com/KhronosGroup/SPIRV-LLVM-Translator.git (revision: `9d8d0329fe41d7fd1b859d1988b8c89d7cce0a7e`)
-* git repository: https://github.com/intel/vc-intrinsics.git (revision: `7ee152a0024b22d757fe2d7c7e2c869d23ef7825`)
+* git repository: https://github.com/intel/vc-intrinsics.git (revision: `069ced1e8a408d8b602b3b210017603792df6260`)
 * git repository: https://github.com/llvm/llvm-project.git (revision: `d32170dbd5b0d54436537b6b75beaf44324e0c28`)
 * files in directory, relative to originating `build_tarballs.jl`: `./bundled`
 
