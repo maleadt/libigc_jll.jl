@@ -1,15 +1,5 @@
 [[libigc]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b4237a748d1bb1db3700dbab9d893fa93735468"
-libc = "glibc"
-os = "linux"
-
-    [[libigc.download]]
-    sha256 = "940a136eb9ca5fee906a6bed2c0a828e649945ed1c2b2004e51a4de293139358"
-    url = "https://github.com/maleadt/libigc_jll.jl/releases/download/libigc-v1.0.6712+1/libigc.v1.0.6712.x86_64-linux-gnu-cxx11.tar.gz"
-[[libigc]]
-arch = "x86_64"
 git-tree-sha1 = "a9399918ba4cd5c940c7f6ce928001af33df5ec6"
 libc = "glibc"
 os = "linux"
@@ -17,3 +7,13 @@ os = "linux"
     [[libigc.download]]
     sha256 = "30337952b1fc1cab52fc1932f574dd5812b54a46131b8ea2fc45aff79167c98c"
     url = "https://github.com/maleadt/libigc_jll.jl/releases/download/libigc-v1.0.8173+1/libigc.v1.0.8173.x86_64-linux-gnu.tar.gz"
+[[libigc]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31247afd3bf850ee58496cee23f369db4261f256"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "96696605ab46576a0de52634568ac37fdd043387992570a778705bd4dbcb2f79"
+    url = "https://github.com/maleadt/libigc_jll.jl/releases/download/libigc-v1.0.11378+1/libigc.v1.0.11378.x86_64-linux-gnu-cxx11.tar.gz"
